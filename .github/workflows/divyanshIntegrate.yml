@@ -1,3 +1,6 @@
+# Ci is created when we just creating the PR on push or pull 
+#CD pipeline created when there is if commited in production after 2 weeks from another branch to main branch they do check CD 
+#pipeline 
 name: Build on PR
 
 on:
